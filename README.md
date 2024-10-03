@@ -26,19 +26,19 @@ Use plt.imshow() to visualize the grayscale image and the segmented images from 
 
 ### Original Image
 
-![img]()
+![img](https://raw.githubusercontent.com/Girithickrohan/Thresholdingg/refs/heads/main/Screenshot%202024-10-03%20162622.png)
 
 ### Global Thresholding
 
-![img]()
+![img](https://raw.githubusercontent.com/Girithickrohan/Thresholdingg/refs/heads/main/Screenshot%202024-10-03%20162632.png)
 
 ### Adaptive Thresholding
 
-![img]()
+![img](https://raw.githubusercontent.com/Girithickrohan/Thresholdingg/refs/heads/main/Screenshot%202024-10-03%20162643.png)
 
 ### Optimum Global Thesholding using Otsu's Method
 
-![img]()
+![img](https://raw.githubusercontent.com/Girithickrohan/Thresholdingg/refs/heads/main/Screenshot%202024-10-03%20162653.png)
 
 ## Result
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
